@@ -1,4 +1,8 @@
-## 1. Chapter 1 Notes:
+# [Rust Programming Language Site](https://doc.rust-lang.org/book/title-page.html)
+
+# Training Notes: 
+
+## Chapter 1
 
 1. Using the `!` indicates rust is calling a marco and not function
 2. function body consists of 
