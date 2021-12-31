@@ -25,7 +25,9 @@
 		"rust-analyzer.checkOnSave.command": "clippy",
 		"rust-analyzer.linkedProjects": [
 			"chapters/chap1/proj1_hello_world/Cargo.toml",
-			"chapters/chap2/guessing_game/Cargo.toml"
+			"chapters/chap2/guessing_game/Cargo.toml",
+			"chapters/chap3/variables/Cargo.toml",
+			"chapters/chap4/functions/Cargo.toml",
 		]
 	},
 	// Add the IDs of extensions you want installed when the container is created.

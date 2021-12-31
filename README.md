@@ -36,3 +36,7 @@
 			"chapters/chap1/proj1_hello_world/Cargo.toml"
 		]
     ```
+
+## Chapter 2 -> [Notes in src code](chapters/chap2/guessing_game/src/main.rs)
+
+## Chapter 3 -> [Notes in src code](chapters/chap3/variables/src/main.rs)
