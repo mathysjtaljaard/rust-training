@@ -29,6 +29,8 @@
 			"chapters/chap3/variables/Cargo.toml",
 			"chapters/chap3/functions/Cargo.toml",
 			"chapters/chap3/control_flows/Cargo.toml",
+			"web_tests/hello-rocket/Cargo.toml",
+			"web_tests/hello_actrix/Cargo.toml",
 		]
 	},
 	// Add the IDs of extensions you want installed when the container is created.
