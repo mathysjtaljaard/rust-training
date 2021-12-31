@@ -39,4 +39,7 @@
 
 ## Chapter 2 -> [Notes in src code](chapters/chap2/guessing_game/src/main.rs)
 
-## Chapter 3 -> [Notes in src code](chapters/chap3/variables/src/main.rs)
+## Chapter 3 
+
+> [Varaibles Notes in src code](chapters/chap3/variables/src/main.rs)
+> [Functions Notes in src code](chapters/chap3/functions/src/main.rs)
